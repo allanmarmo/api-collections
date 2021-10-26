@@ -23,7 +23,7 @@ fun main() {
         println(values[index])
     }
 
-    println("----------------------")
+    println("-----------------------")
     values.sort()
     for (valor in values) {
         println(valor)

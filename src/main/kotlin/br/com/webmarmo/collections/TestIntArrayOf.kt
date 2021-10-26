@@ -7,7 +7,7 @@ fun main() {
         println(it)
     }
 
-    println("----------------------")
+    println("-----------------------")
     values.sort()
     for (valor in values) {
         println(valor)
